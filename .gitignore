@@ -1,0 +1,19 @@
+﻿# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.Python
+.env
+.venv/
+venv/
+
+# Raw Scopus exports (do not commit licensed full-text bibliographic dumps)
+data.csv
+data_a3.csv
+**/cleaned_corpus_text.csv
+**/cleaned_master.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
