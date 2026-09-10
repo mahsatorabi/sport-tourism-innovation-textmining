@@ -1,11 +1,10 @@
-﻿# Scopus search string (Appendix A)
+# Scopus search string (Appendix A)
 
-**Database:** Scopus  
-**Field:** TITLE-ABS-KEY  
-**Filter at download:** none  
-**Export date:** 2026-09-09  
+Database: **Scopus**  
+Export date: **9 September 2026**  
+Filter at download: **none**
 
-```text
+```
 TITLE-ABS-KEY(
 (
 "entrepreneurship"
@@ -24,6 +23,5 @@ OR "tourism development"
 )
 ```
 
-## Analytical subset for this article
-
-After corpus cleaning, documents were retained if they mentioned sport/sports and (sport tourism OR sport event) and (innovation OR entrepreneurship). Final analytical N = 189.
+After export, place the CSV as `data.csv` in the repository root and run `python code/pipeline.py`.
+The Article 1 analysis uses the **full cleaned** English scholarly corpus after deduplication and quality screening (N = 2,265 in the reported run).
