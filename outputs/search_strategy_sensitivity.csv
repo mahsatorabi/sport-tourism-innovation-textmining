@@ -1,0 +1,8 @@
+strategy,n,pct_of_master,mean_topic_overlap_jaccard,bridge_overlap_top10,bridges,note
+S0_master (reported),2265,100.0,1.0,1.0,"tourist, innovation, environmental, sustainable development, sport, management, development, policy, community, model",
+S1_no_social_innovation_phrase,2227,98.3,0.942,0.7,"management, innovation, tourist, environmental, development, sustainable development, policy, development tourism, destination, economic",
+S2_strict_triple_intersection,84,,,,,too small for NMF
+S3_no_sport_branch,1908,84.2,0.709,0.6,"tourist, innovation, environmental, china, development tourism, destination, policy, sustainable, sustainable development, community",
+S4_sport_branch_only,357,15.8,0.189,0.2,"tourism, management, industry, strategy, local, sport tourism, social, market, innovation, human",
+S5_harder_social_lens,77,,,,,too small for NMF
+S6_broad_entrepreneurship_only,478,21.1,0.282,0.2,"social, development, local, entrepreneurship, sector, business, entrepreneurial, tourist, sustainable, plan",

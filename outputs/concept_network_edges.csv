@@ -1,0 +1,544 @@
+source,target,weight_jaccard,co_occurrence
+development,tourism development,0.7983098591549296,1417
+development,sustainable,0.36700698549167116,683
+development,innovation,0.2844650205761317,553
+development,development tourism,0.39774647887323944,706
+development,community,0.24945175438596492,455
+development,management,0.20835565077664703,389
+development,sustainable development,0.23549295774647888,418
+development,economic,0.1961218836565097,354
+development,tourist,0.19181868435599778,347
+development,local,0.19034406215316316,343
+development,sustainable tourism,0.1724137931034483,315
+development,sustainability,0.1602634467618002,292
+development,destination,0.15418261344997267,282
+development,social,0.1484118291347207,271
+development,rural,0.14908890115958034,270
+development,industry,0.14175824175824175,258
+development,ecotourism,0.15798319327731092,282
+development,cultural,0.12754260582737767,232
+development,community development,0.1532394366197183,272
+development,market,0.12203202650469354,221
+development,entrepreneurship,0.10529187124931806,193
+development,model,0.10065645514223195,184
+development,heritage,0.108719646799117,197
+development,tourism tourism,0.10773480662983426,195
+development,china,0.11669458403126745,209
+development,economics,0.1165266106442577,208
+development,tourism management,0.1111731843575419,199
+development,tourist destination,0.11273135165451487,201
+development,technology,0.08360655737704918,153
+development,plan,0.10602678571428571,190
+development,environmental,0.10918253079507279,195
+development,policy,0.09246954595791805,167
+development,economy,0.09515859766277128,171
+development,regional,0.08523676880222841,153
+development,entrepreneur,0.08851540616246499,158
+development,strategy,0.07649667405764966,138
+development,rural tourism,0.07846410684474124,141
+development,sustainability tourism,0.08011204481792718,143
+development,resource,0.07306190741773563,131
+development,development tourist,0.08338028169014085,148
+development,tourism market,0.07982012366498033,142
+development,tourism economics,0.07592800899887514,135
+development,economic development,0.07605633802816901,135
+development,local development,0.07492957746478873,133
+tourism development,sustainable,0.31449188214070956,523
+tourism development,innovation,0.2916666666666667,483
+tourism development,development tourism,0.43737305348679756,646
+tourism development,community,0.22201017811704835,349
+tourism development,management,0.21901091843288376,341
+tourism development,sustainable development,0.19543973941368079,300
+tourism development,economic,0.19035029742233972,288
+tourism development,tourist,0.2165087956698241,320
+tourism development,local,0.1725721784776903,263
+tourism development,sustainable tourism,0.178335535006605,270
+tourism development,sustainability,0.16137566137566137,244
+tourism development,destination,0.16633399866932802,250
+tourism development,social,0.1433267587113741,218
+tourism development,rural,0.13955026455026456,211
+tourism development,industry,0.1353135313531353,205
+tourism development,ecotourism,0.1835180055401662,265
+tourism development,cultural,0.12045003309066843,182
+tourism development,community development,0.1350806451612903,201
+tourism development,market,0.13108108108108107,194
+tourism development,entrepreneurship,0.10904255319148937,164
+tourism development,model,0.09681697612732096,146
+tourism development,heritage,0.10805369127516778,161
+tourism development,tourism tourism,0.10834454912516824,161
+tourism development,china,0.1262002743484225,184
+tourism development,economics,0.12525808671713695,182
+tourism development,tourism management,0.1326388888888889,191
+tourism development,tourist destination,0.13310104529616726,191
+tourism development,technology,0.07830126078301261,118
+tourism development,plan,0.10702113156100886,157
+tourism development,environmental,0.10860655737704918,159
+tourism development,policy,0.09565807327001356,141
+tourism development,economy,0.10047846889952153,147
+tourism development,regional,0.07723577235772358,114
+tourism development,entrepreneur,0.1060711793440335,152
+tourism development,rural tourism,0.0821917808219178,120
+tourism development,sustainability tourism,0.09331476323119778,134
+tourism development,resource,0.08223911541119558,119
+tourism development,development tourist,0.10288935870331219,146
+tourism development,tourism market,0.09224318658280922,132
+tourism development,stakeholder,0.07506887052341597,109
+tourism development,innovation tourism,0.07889273356401384,114
+tourism development,tourism economics,0.09046283309957924,129
+tourism development,economic development,0.07330567081604426,106
+sustainable,innovation,0.17401574803149605,221
+sustainable,development tourism,0.26827171109200343,312
+sustainable,community,0.2170172084130019,227
+sustainable,management,0.15633672525439407,169
+sustainable,sustainable development,0.5435630689206762,418
+sustainable,economic,0.16700404858299595,165
+sustainable,tourist,0.11976630963972736,123
+sustainable,local,0.14357429718875503,143
+sustainable,sustainable tourism,0.47724317295188556,367
+sustainable,sustainability,0.2297447280799112,207
+sustainable,destination,0.1206896551724138,119
+sustainable,social,0.14842105263157895,141
+sustainable,rural,0.12683438155136267,121
+sustainable,industry,0.09387755102040816,92
+sustainable,ecotourism,0.2251732101616628,195
+sustainable,cultural,0.1140724946695096,107
+sustainable,community development,0.1157556270096463,108
+sustainable,entrepreneurship,0.0932475884244373,87
+sustainable,model,0.08756756756756756,81
+sustainable,heritage,0.10828729281767956,98
+sustainable,tourism tourism,0.10143329658213891,92
+sustainable,china,0.07926167209554831,73
+sustainable,economics,0.07868852459016394,72
+sustainable,tourism management,0.07197382769901854,66
+sustainable,tourist destination,0.08305647840531562,75
+sustainable,plan,0.10783200908059024,95
+sustainable,environmental,0.14705882352941177,125
+sustainable,policy,0.10011376564277588,88
+sustainable,economy,0.07847533632286996,70
+sustainable,strategy,0.08710801393728224,75
+sustainable,digital,0.07317073170731707,63
+sustainable,sustainability tourism,0.0937129300118624,79
+sustainable,resource,0.08382526564344746,71
+sustainable,stakeholder,0.07538280329799764,64
+sustainable,tourism sustainable,0.16905071521456436,130
+innovation,development tourism,0.19798657718120805,236
+innovation,management,0.1679611650485437,173
+innovation,sustainable development,0.11002921129503408,113
+innovation,economic,0.11491935483870967,114
+innovation,tourist,0.14895833333333333,143
+innovation,sustainable tourism,0.11349693251533742,111
+innovation,sustainability,0.1275239107332625,120
+innovation,destination,0.13276231263383298,124
+innovation,social,0.12017167381974249,112
+innovation,industry,0.16345062429057888,144
+innovation,ecotourism,0.09267241379310345,86
+innovation,cultural,0.08478260869565217,78
+innovation,market,0.13441483198146004,116
+innovation,model,0.1216374269005848,104
+innovation,sport,0.08493771234428087,75
+innovation,tourism tourism,0.07814269535673839,69
+innovation,china,0.07491486946651532,66
+innovation,economics,0.08796296296296297,76
+innovation,tourism management,0.08710801393728224,75
+innovation,tourist destination,0.08508158508158509,73
+innovation,technology,0.14956736711990112,121
+innovation,environmental,0.08665105386416862,74
+innovation,policy,0.07981220657276995,68
+innovation,economy,0.07268464243845252,62
+innovation,strategy,0.07627118644067797,63
+innovation,digital,0.08944099378881988,72
+innovation,sustainability tourism,0.07758620689655173,63
+innovation,development tourist,0.07142857142857142,58
+innovation,tourism industry,0.08084577114427861,65
+innovation,tourism market,0.085,68
+innovation,innovation tourism,0.19667590027700832,142
+innovation,sector,0.07682619647355164,61
+innovation,service,0.10492227979274611,81
+development tourism,community,0.14800759013282733,156
+development tourism,management,0.2641107561235357,248
+development tourism,sustainable development,0.2904707233065442,253
+development tourism,economic,0.16452991452991453,154
+development tourism,tourist,0.19319429198682767,176
+development tourism,local,0.14103923647932132,133
+development tourism,sustainable tourism,0.13424947145877378,127
+development tourism,sustainability,0.11764705882352941,110
+development tourism,destination,0.14884233737596472,135
+development tourism,social,0.11739130434782609,108
+development tourism,rural,0.13325867861142218,119
+development tourism,industry,0.13626126126126126,121
+development tourism,ecotourism,0.16317016317016317,140
+development tourism,cultural,0.09232480533926585,83
+development tourism,community development,0.10508474576271186,93
+development tourism,market,0.19478908188585609,157
+development tourism,entrepreneurship,0.08257918552036199,73
+development tourism,model,0.08018327605956473,70
+development tourism,heritage,0.09813084112149532,84
+development tourism,tourism tourism,0.11694510739856802,98
+development tourism,china,0.12848484848484848,106
+development tourism,economics,0.21578947368421053,164
+development tourism,tourism management,0.2585499316005472,189
+development tourism,tourist destination,0.13947696139476962,112
+development tourism,technology,0.07276995305164319,62
+development tourism,plan,0.09341317365269461,78
+development tourism,environmental,0.10278113663845223,85
+development tourism,policy,0.09443099273607748,78
+development tourism,economy,0.08837772397094432,73
+development tourism,regional,0.07985257985257985,65
+development tourism,entrepreneur,0.08841843088418432,71
+development tourism,rural tourism,0.07816377171215881,63
+development tourism,resource,0.07547169811320754,60
+development tourism,tourism industry,0.08386277001270648,66
+development tourism,tourism market,0.18497913769123783,133
+development tourism,tourism economics,0.1787709497206704,128
+development tourism,economic development,0.0782051282051282,61
+development tourism,sector,0.07289002557544758,57
+community,management,0.13218390804597702,115
+community,sustainable development,0.1312883435582822,107
+community,economic,0.1399229781771502,109
+community,tourist,0.08990147783251232,73
+community,local,0.21727019498607242,156
+community,sustainable tourism,0.15824468085106383,119
+community,sustainability,0.12550066755674233,94
+community,destination,0.07279693486590039,57
+community,social,0.15524475524475526,111
+community,rural,0.14893617021276595,105
+community,ecotourism,0.1339031339031339,94
+community,cultural,0.10795454545454546,76
+community,community development,0.5396825396825397,272
+community,entrepreneurship,0.07092198581560284,50
+community,heritage,0.10644677661169415,71
+community,tourism tourism,0.07309941520467836,50
+community,tourism management,0.0748502994011976,50
+community,plan,0.09553158705701079,62
+community,environmental,0.07575757575757576,50
+community,strategy,0.07188498402555911,45
+community,rural tourism,0.07754442649434572,48
+community,sustainability tourism,0.07352941176470588,45
+community,resource,0.07933884297520662,48
+community,stakeholder,0.07820299500831947,47
+community,economic development,0.07035175879396985,42
+management,sustainable development,0.11124845488257108,90
+management,economic,0.08531994981179424,68
+management,tourist,0.13720316622691292,104
+management,local,0.09523809523809523,74
+management,sustainable tourism,0.09419354838709677,73
+management,sustainability,0.10067114093959731,75
+management,destination,0.13630041724617525,98
+management,social,0.09849521203830369,72
+management,industry,0.10112359550561797,72
+management,ecotourism,0.11544011544011544,80
+management,cultural,0.07223796033994334,51
+management,community development,0.10087719298245613,69
+management,market,0.1336405529953917,87
+management,model,0.07969924812030076,53
+management,sport,0.09298780487804878,61
+management,heritage,0.0882800608828006,58
+management,tourism tourism,0.07078313253012049,47
+management,economics,0.1060126582278481,67
+management,tourism management,0.44490644490644493,214
+management,tourist destination,0.10932475884244373,68
+management,technology,0.09713375796178345,61
+management,plan,0.10610932475884244,66
+management,environmental,0.09047619047619047,57
+management,policy,0.08466453674121406,53
+management,strategy,0.07107438016528926,43
+management,resource,0.11702127659574468,66
+management,tourism market,0.09615384615384616,55
+management,stakeholder,0.08131487889273356,47
+management,tourism economics,0.08216783216783216,47
+management,service,0.0851063829787234,48
+sustainable development,economic,0.16569767441860464,114
+sustainable development,tourist,0.09903713892709766,72
+sustainable development,local,0.11614730878186968,82
+sustainable development,sustainable tourism,0.20398773006134968,133
+sustainable development,sustainability,0.14871016691957512,98
+sustainable development,destination,0.08177905308464849,57
+sustainable development,social,0.14906832298136646,96
+sustainable development,rural,0.1277258566978193,82
+sustainable development,industry,0.10413476263399694,68
+sustainable development,ecotourism,0.16202945990180032,99
+sustainable development,cultural,0.10862619808306709,68
+sustainable development,community development,0.08832807570977919,56
+sustainable development,model,0.07201309328968904,44
+sustainable development,heritage,0.0957983193277311,57
+sustainable development,tourism tourism,0.08,48
+sustainable development,china,0.09168081494057725,54
+sustainable development,economics,0.09844559585492228,57
+sustainable development,technology,0.07008547008547009,41
+sustainable development,plan,0.10035211267605634,57
+sustainable development,environmental,0.1751412429378531,93
+sustainable development,policy,0.08450704225352113,48
+sustainable development,economy,0.09302325581395349,52
+sustainable development,regional,0.08043875685557587,44
+sustainable development,rural tourism,0.07992565055762081,43
+sustainable development,digital,0.07706766917293233,41
+sustainable development,resource,0.07183364839319471,38
+sustainable development,economic development,0.07378640776699029,38
+sustainable development,tourism sustainable,0.1488469601677149,71
+economic,tourist,0.10230547550432277,71
+economic,local,0.15114503816793892,99
+economic,sustainable tourism,0.11094674556213018,75
+economic,sustainability,0.10381679389312977,68
+economic,destination,0.07302533532041729,49
+economic,social,0.16887417218543047,102
+economic,rural,0.07309486780715396,47
+economic,industry,0.12438625204582651,76
+economic,ecotourism,0.11001642036124795,67
+economic,cultural,0.0945273631840796,57
+economic,community development,0.10623946037099494,63
+economic,market,0.07190635451505016,43
+economic,model,0.08376963350785341,48
+economic,heritage,0.07853403141361257,45
+economic,tourism tourism,0.08672566371681416,49
+economic,china,0.0972972972972973,54
+economic,economics,0.17578125,90
+economic,plan,0.09444444444444444,51
+economic,environmental,0.15234375,78
+economic,policy,0.08379888268156424,45
+economic,economy,0.15863453815261044,79
+economic,regional,0.10515873015873016,53
+economic,tourism industry,0.08811475409836066,43
+economic,region,0.07392197125256673,36
+economic,tourism economics,0.08074534161490683,39
+economic,economic development,0.3515625,135
+economic,sector,0.07484407484407485,36
+economic,local development,0.07039337474120083,34
+tourist,local,0.12257100149476831,82
+tourist,sustainable tourism,0.0824891461649783,57
+tourist,sustainability,0.0975609756097561,64
+tourist,destination,0.47835051546391755,232
+tourist,social,0.09331259720062209,60
+tourist,industry,0.08227848101265822,52
+tourist,ecotourism,0.12166666666666667,73
+tourist,cultural,0.10234899328859061,61
+tourist,market,0.14542190305206462,81
+tourist,model,0.07291666666666667,42
+tourist,heritage,0.08849557522123894,50
+tourist,tourism tourism,0.1009009009009009,56
+tourist,china,0.0763765541740675,43
+tourist,economics,0.09908256880733946,54
+tourist,tourism management,0.1311787072243346,69
+tourist,tourist destination,0.5485564304461942,209
+tourist,plan,0.07692307692307693,42
+tourist,environmental,0.07904411764705882,43
+tourist,policy,0.0762081784386617,41
+tourist,economy,0.0708955223880597,38
+tourist,entrepreneur,0.07436399217221135,38
+tourist,sustainability tourism,0.07661290322580645,38
+tourist,development tourist,0.3884514435695538,148
+tourist,tourism market,0.13090128755364808,61
+tourist,stakeholder,0.07142857142857142,35
+tourist,innovation tourism,0.07392197125256673,36
+tourist,region,0.08108108108108109,39
+tourist,tourism economics,0.08350730688935282,40
+tourist,local development,0.07531380753138076,36
+local,sustainable tourism,0.09347181008902077,63
+local,sustainability,0.08742331288343558,57
+local,destination,0.11356466876971609,72
+local,social,0.08976377952755905,57
+local,rural,0.09740259740259741,60
+local,ecotourism,0.13162393162393163,77
+local,cultural,0.10806174957118353,63
+local,community development,0.1243432574430823,71
+local,heritage,0.11233885819521179,61
+local,tourism tourism,0.07913669064748201,44
+local,tourist destination,0.0903954802259887,48
+local,plan,0.1138996138996139,59
+local,environmental,0.07663551401869159,41
+local,policy,0.07575757575757576,40
+local,economy,0.07854406130268199,41
+local,resource,0.07676348547717843,37
+local,stakeholder,0.09361702127659574,44
+local,region,0.07610993657505286,36
+local,economic development,0.08137044967880086,38
+local,local development,0.35945945945945945,133
+sustainable tourism,sustainability,0.14424635332252836,89
+sustainable tourism,destination,0.09161490683229814,59
+sustainable tourism,social,0.09018987341772151,57
+sustainable tourism,ecotourism,0.2158671586715867,117
+sustainable tourism,cultural,0.08067226890756303,48
+sustainable tourism,community development,0.09230769230769231,54
+sustainable tourism,entrepreneurship,0.07665505226480836,44
+sustainable tourism,heritage,0.08093525179856115,45
+sustainable tourism,tourism tourism,0.14149139579349904,74
+sustainable tourism,tourist destination,0.07262569832402235,39
+sustainable tourism,plan,0.08506616257088846,45
+sustainable tourism,environmental,0.10404624277456648,54
+sustainable tourism,policy,0.09073359073359073,47
+sustainable tourism,strategy,0.07014028056112225,35
+sustainable tourism,sustainability tourism,0.07883817427385892,38
+sustainable tourism,tourism sustainable,0.18333333333333332,77
+sustainability,destination,0.10294117647058823,63
+sustainability,social,0.11655405405405406,69
+sustainability,industry,0.08080808080808081,48
+sustainability,ecotourism,0.17286245353159851,93
+sustainability,cultural,0.08465608465608465,48
+sustainability,community development,0.09107142857142857,51
+sustainability,tourist destination,0.08300395256916997,42
+sustainability,plan,0.07480314960629922,38
+sustainability,environmental,0.11909650924024641,58
+sustainability,policy,0.08266129032258064,41
+sustainability,sustainability tourism,0.45132743362831856,153
+sustainability,resource,0.09172259507829977,41
+destination,social,0.07692307692307693,47
+destination,ecotourism,0.11743772241992882,66
+destination,market,0.1295238095238095,68
+destination,model,0.08113207547169811,43
+destination,tourism tourism,0.07400379506641366,39
+destination,economics,0.08414872798434442,43
+destination,tourism management,0.09780439121756487,49
+destination,tourist destination,0.6220238095238095,209
+destination,plan,0.08383233532934131,42
+destination,policy,0.07878787878787878,39
+destination,entrepreneur,0.07234042553191489,34
+destination,sustainability tourism,0.07947019867549669,36
+destination,development tourist,0.2670157068062827,102
+destination,tourism market,0.10550458715596331,46
+destination,stakeholder,0.07623318385650224,34
+destination,tourism economics,0.07482993197278912,33
+social,rural,0.09217391304347826,53
+social,industry,0.0984182776801406,56
+social,cultural,0.10128913443830571,55
+social,community development,0.10820895522388059,58
+social,market,0.08426966292134831,45
+social,entrepreneurship,0.119140625,61
+social,model,0.07707129094412331,40
+social,sport,0.07722007722007722,40
+social,economics,0.10882956878850103,53
+social,plan,0.0708502024291498,35
+social,environmental,0.10460251046025104,50
+social,entrepreneur,0.08647450110864745,39
+social,sustainability tourism,0.07709750566893424,34
+social,economic development,0.07783018867924528,33
+rural,ecotourism,0.07168458781362007,40
+rural,community development,0.11583011583011583,60
+rural,entrepreneurship,0.11847389558232932,59
+rural,tourism tourism,0.072,36
+rural,china,0.07926829268292683,39
+rural,plan,0.08,38
+rural,entrepreneur,0.09468822170900693,41
+rural,rural tourism,0.5326797385620915,163
+industry,cultural,0.07421150278293136,40
+industry,market,0.09375,48
+industry,model,0.08870967741935484,44
+industry,tourism tourism,0.08113590263691683,40
+industry,china,0.088659793814433,43
+industry,economics,0.09915611814345991,47
+industry,technology,0.12555066079295155,57
+industry,environmental,0.07838983050847458,37
+industry,policy,0.07051282051282051,33
+industry,economy,0.09734513274336283,44
+industry,digital,0.08274231678486997,35
+industry,tourism industry,0.48514851485148514,147
+industry,innovation tourism,0.09068627450980392,37
+industry,sector,0.11224489795918367,44
+industry,service,0.09045226130653267,36
+ecotourism,cultural,0.07372400756143667,39
+ecotourism,community development,0.10588235294117647,54
+ecotourism,market,0.07858546168958742,40
+ecotourism,heritage,0.08902691511387163,43
+ecotourism,tourism tourism,0.08523908523908524,41
+ecotourism,china,0.07933194154488518,38
+ecotourism,tourism management,0.09287257019438445,43
+ecotourism,tourist destination,0.12080536912751678,54
+ecotourism,plan,0.07311827956989247,34
+ecotourism,environmental,0.12415349887133183,55
+ecotourism,policy,0.08647450110864745,39
+ecotourism,sustainability tourism,0.13810741687979539,54
+ecotourism,resource,0.09158415841584158,37
+ecotourism,development tourist,0.0945273631840796,38
+ecotourism,tourism market,0.07352941176470588,30
+ecotourism,stakeholder,0.09,36
+cultural,heritage,0.36,135
+cultural,plan,0.07095343680709534,32
+cultural,local development,0.07349081364829396,28
+community development,tourism management,0.0752212389380531,34
+community development,plan,0.07640449438202247,34
+community development,sustainability tourism,0.07323232323232323,29
+market,economics,0.13365155131264916,56
+market,tourism management,0.09534883720930233,41
+market,tourist destination,0.11483253588516747,48
+market,technology,0.08899297423887588,38
+market,entrepreneur,0.07052896725440806,28
+market,digital,0.07291666666666667,28
+market,tourism market,0.5680933852140078,146
+market,tourism economics,0.13505747126436782,47
+market,service,0.09915014164305949,35
+entrepreneurship,entrepreneur,0.369281045751634,113
+entrepreneurship,rural tourism,0.08661417322834646,33
+model,sport,0.07256235827664399,32
+model,china,0.11864406779661017,49
+model,economics,0.07311320754716981,31
+model,technology,0.09336609336609336,38
+model,environmental,0.07004830917874397,29
+model,tourism industry,0.07865168539325842,28
+sport,technology,0.07506053268765134,31
+sport,event,0.4789272030651341,125
+heritage,tourist destination,0.07263922518159806,30
+heritage,local development,0.07309941520467836,25
+tourism tourism,tourist destination,0.07334963325183375,30
+tourism tourism,tourism industry,0.07407407407407407,26
+china,economics,0.11586901763224182,46
+china,environmental,0.09113924050632911,36
+china,policy,0.08461538461538462,33
+china,economy,0.1,38
+china,rural tourism,0.07479224376731301,27
+china,tourism industry,0.0782608695652174,27
+china,tourism economics,0.10670731707317073,35
+china,economic development,0.09090909090909091,30
+economics,tourism management,0.11053984575835475,43
+economics,tourist destination,0.09487179487179487,37
+economics,environmental,0.09278350515463918,36
+economics,policy,0.07493540051679587,29
+economics,economy,0.11989100817438691,44
+economics,entrepreneur,0.0782122905027933,28
+economics,tourism industry,0.07988165680473373,27
+economics,tourism market,0.1375,44
+economics,tourism economics,0.6330275229357798,138
+economics,economic development,0.09287925696594428,30
+tourism management,tourist destination,0.1220159151193634,46
+tourism management,policy,0.07571801566579635,29
+tourism management,entrepreneur,0.07303370786516854,26
+tourism management,sustainability tourism,0.07941176470588235,27
+tourism management,tourism market,0.10429447852760736,34
+tourism management,tourism economics,0.12101910828025478,38
+tourist destination,policy,0.08244680851063829,31
+tourist destination,entrepreneur,0.08333333333333333,29
+tourist destination,sustainability tourism,0.08059701492537313,27
+tourist destination,development tourist,0.38910505836575876,100
+tourist destination,tourism market,0.1305732484076433,41
+tourist destination,tourism economics,0.0981012658227848,31
+technology,environmental,0.07253886010362694,28
+technology,digital,0.19407894736842105,59
+technology,tourism industry,0.10248447204968944,33
+technology,innovation tourism,0.07692307692307693,25
+technology,service,0.08653846153846154,27
+plan,environmental,0.07272727272727272,28
+plan,policy,0.0975609756097561,36
+plan,regional,0.12759643916913946,43
+plan,strategy,0.1,34
+plan,resource,0.08536585365853659,28
+plan,region,0.0778816199376947,25
+plan,local development,0.08280254777070063,26
+environmental,policy,0.08310991957104558,31
+environmental,economy,0.09315068493150686,34
+environmental,economic development,0.07232704402515723,23
+environmental,tourism sustainable,0.07348242811501597,23
+policy,economy,0.07123287671232877,26
+policy,regional,0.0943952802359882,32
+policy,sector,0.07467532467532467,23
+economy,regional,0.09580838323353294,32
+economy,tourism industry,0.08280254777070063,26
+economy,tourism economics,0.11073825503355705,33
+economy,economic development,0.11564625850340136,34
+economy,sector,0.07590759075907591,23
+regional,region,0.08333333333333333,24
+entrepreneur,rural tourism,0.09966777408637874,30
+entrepreneur,tourism economics,0.09285714285714286,26
+digital,tourism industry,0.08633093525179857,24
+tourism industry,innovation tourism,0.08646616541353383,23
+tourism industry,sector,0.08108108108108109,21
+tourism market,tourism economics,0.16393442622950818,40
+tourism market,sector,0.07307692307692308,19
+region,local development,0.07509881422924901,19
+sector,service,0.10460251046025104,25

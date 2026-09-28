@@ -10,7 +10,9 @@ Starts from data.csv — independent of prior Article 1/2 pipelines.
 from __future__ import annotations
 
 import json
+import os
 import re
+import sys
 import warnings
 from pathlib import Path
 
@@ -28,10 +30,21 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 warnings.filterwarnings("ignore")
 
-ROOT = Path(__file__).resolve().parents[1]
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, OSError):
+        pass
+
+HERE = Path(__file__).resolve().parent
+ROOT = Path(os.environ.get("ADEL_ROOT", HERE.parent))
 DATA = ROOT / "data.csv"
-OUT = ROOT / "outputs"
-FIG = ROOT / "figures"
+OUT = Path(os.environ.get("ADEL_OUT", HERE.parent / "outputs"))
+# pipeline.py renders only its own exploratory plots. These are kept in a
+# scratch folder so the curated publication figures in figures/ stay untouched.
+FIG = Path(os.environ.get("ADEL_FIG", HERE.parent / ".pipeline_figures"))
+OUT_BASE = OUT
+FIG_BASE = FIG
 OUT.mkdir(parents=True, exist_ok=True)
 FIG.mkdir(parents=True, exist_ok=True)
 
@@ -456,12 +469,11 @@ def main():
     n = int(mask.sum())
     print(f"\nUsing mask={mask_col}, N={n}")
 
-    # write outputs into mode-specific folder so core/full do not overwrite each other
+    # write outputs into the configured output root
     global OUT, FIG
-    if mode == "full":
-        # Article 1 replication package: write to repository-root outputs/ and figures/
-        OUT = ROOT / "outputs"
-        FIG = ROOT / "figures"
+    if mode == "core":
+        OUT = OUT_BASE / "core"
+        FIG = FIG_BASE / "core"
         OUT.mkdir(parents=True, exist_ok=True)
         FIG.mkdir(parents=True, exist_ok=True)
 

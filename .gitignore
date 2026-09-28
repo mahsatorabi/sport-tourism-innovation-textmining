@@ -1,6 +1,10 @@
 # Local / licensed data — do not commit
 data.csv
 *.csv.bak
+
+# Scopus records carry abstracts; Elsevier licence forbids redistribution.
+# These are regenerated locally by pipeline.py / diagnostics.py.
+screened_corpus.csv
 cleaned_master.csv
 
 # Python
@@ -21,6 +25,9 @@ Thumbs.db
 ~$*
 
 # Pipeline scratch
+.pipeline_figures/
+outputs/core/
+figures/core/
 outputs_full/
 figures_full/
 figures_article1_full/

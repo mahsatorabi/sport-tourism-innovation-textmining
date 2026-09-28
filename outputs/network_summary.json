@@ -1,0 +1,93 @@
+{
+  "n_nodes": 55,
+  "n_edges": 543,
+  "n_communities": 6,
+  "modularity": 0.2031,
+  "density": 0.3657,
+  "mean_degree": 2.44,
+  "jaccard_min": 0.07,
+  "cooccurrence_min": 3,
+  "top_n_nodes_considered": 55,
+  "min_df": 56,
+  "centrality_agreement": {
+    "top10_betweenness": [
+      "tourist",
+      "innovation",
+      "environmental",
+      "sustainable development",
+      "sport",
+      "management",
+      "development",
+      "policy",
+      "community",
+      "model"
+    ],
+    "top10_eigenvector": [
+      "tourism development",
+      "development",
+      "development tourism",
+      "sustainable",
+      "tourist",
+      "sustainable development",
+      "management",
+      "destination",
+      "innovation",
+      "community"
+    ],
+    "top10_degree": [
+      "tourism development",
+      "development",
+      "development tourism",
+      "sustainable",
+      "tourist",
+      "sustainable development",
+      "management",
+      "economic",
+      "innovation",
+      "destination"
+    ],
+    "top10_closeness": [
+      "tourist",
+      "policy",
+      "plan",
+      "innovation",
+      "management",
+      "environmental",
+      "development",
+      "sustainable development",
+      "economic",
+      "model"
+    ],
+    "jaccard_bet_eig": 0.429,
+    "jaccard_bet_degree": 0.333,
+    "jaccard_bet_closeness": 0.667,
+    "spearman_bet_eig": 0.577,
+    "spearman_bet_degree": 0.628,
+    "spearman_bet_closeness": 0.839,
+    "spearman_bet_clustering": -0.631
+  },
+  "generic_term_check": {
+    "n_docs_keyword_based": 2196,
+    "n_docs_fulltext_fallback": 69,
+    "min_df_used": 56,
+    "generic_terms_in_main": [
+      "development",
+      "management",
+      "model",
+      "policy"
+    ],
+    "bridges_after_generic_removal": [
+      "innovation",
+      "tourist",
+      "environmental",
+      "sustainable development",
+      "technology",
+      "sport",
+      "community",
+      "social",
+      "plan",
+      "tourism development"
+    ],
+    "bridge_overlap_after_generic_removal": 0.429
+  }
+}

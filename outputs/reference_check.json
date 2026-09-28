@@ -1,0 +1,1501 @@
+{
+  "dois": {
+    "10.1016/j.joi.2017.08.007": {
+      "title": "bibliometrix : An R-tool for comprehensive science mapping analysis",
+      "journal": "Journal of Informetrics",
+      "volume": "11",
+      "issue": "4",
+      "page": "959-975",
+      "article_number": "",
+      "year": 2017,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Aria, Massimo; Cuccurullo, Corrado",
+      "n_authors": 2
+    },
+    "10.1007/s11192-024-05161-6": {
+      "title": "Comparative science mapping: a novel conceptual structure analysis with metadata",
+      "journal": "Scientometrics",
+      "volume": "129",
+      "issue": "11",
+      "page": "7055-7081",
+      "article_number": "",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": "Aria, Massimo; Cuccurullo, Corrado; D’Aniello, Luca; Misuraca, Michelangelo; Spano, Maria",
+      "n_authors": 5
+    },
+    "10.1088/1742-5468/2008/10/P10008": {
+      "title": "Fast unfolding of communities in large networks",
+      "journal": "Journal of Statistical Mechanics: Theory and Experiment",
+      "volume": "2008",
+      "issue": "10",
+      "page": "P10008",
+      "article_number": "",
+      "year": 2008,
+      "type": "journal-article",
+      "publisher": "IOP Publishing",
+      "authors": "Blondel, Vincent D; Guillaume, Jean-Loup; Lambiotte, Renaud; Lefebvre, Etienne",
+      "n_authors": 4
+    },
+    "10.1016/j.tourman.2023.104724": {
+      "title": "Metaverse as a disruptive technology revolutionising tourism management and marketing",
+      "journal": "Tourism Management",
+      "volume": "97",
+      "issue": "",
+      "page": "104724",
+      "article_number": "104724",
+      "year": 2023,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Buhalis, Dimitrios; Leung, Daniel; Lin, Michael",
+      "n_authors": 3
+    },
+    "10.1108/IJCHM-04-2022-0497": {
+      "title": "Smart hospitality: from smart cities and smart tourism towards agile business ecosystems in networked destinations",
+      "journal": "International Journal of Contemporary Hospitality Management",
+      "volume": "35",
+      "issue": "1",
+      "page": "369-393",
+      "article_number": "",
+      "year": 2022,
+      "type": "journal-article",
+      "publisher": "Emerald",
+      "authors": "Buhalis, Dimitrios; O’Connor, Peter; Leung, Rosanna",
+      "n_authors": 3
+    },
+    "10.1016/j.jbusres.2021.04.070": {
+      "title": "How to conduct a bibliometric analysis: An overview and guidelines",
+      "journal": "Journal of Business Research",
+      "volume": "133",
+      "issue": "",
+      "page": "285-296",
+      "article_number": "",
+      "year": 2021,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Donthu, Naveen; Kumar, Satish; Mukherjee, Debmalya; Pandey, Nitesh; Lim, Weng Marc",
+      "n_authors": 5
+    },
+    "10.3389/fsoc.2022.886498": {
+      "title": "A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts",
+      "journal": "Frontiers in Sociology",
+      "volume": "7",
+      "issue": "",
+      "page": "",
+      "article_number": "886498",
+      "year": 2022,
+      "type": "journal-article",
+      "publisher": "Frontiers Media SA",
+      "authors": "Egger, Roman; Yu, Joanne",
+      "n_authors": 2
+    },
+    "10.1080/09669582.2023.2189622": {
+      "title": "Opportunities and challenges of digital competencies for women tourism entrepreneurs in Latin America: a gendered perspective",
+      "journal": "Journal of Sustainable Tourism",
+      "volume": "32",
+      "issue": "3",
+      "page": "519-539",
+      "article_number": "",
+      "year": 2023,
+      "type": "journal-article",
+      "publisher": "Informa UK Limited",
+      "authors": "Khoo, Catheryn; Yang, Elaine Chiao Ling; Tan, Rosalie Ying Yang; Alonso-Vazquez, Marisol; Ricaurte-Quijano, Carla; Pécot, Mathias; Barahona-Canales, Doménica",
+      "n_authors": 7
+    },
+    "10.1016/j.tourman.2016.03.003": {
+      "title": "Thanatourism: Case studies in travel to the dark side",
+      "journal": "Tourism Management",
+      "volume": "55",
+      "issue": "",
+      "page": "287-288",
+      "article_number": "",
+      "year": 2016,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Light, Duncan",
+      "n_authors": 1
+    },
+    "10.3390/su12125209": {
+      "title": "Sustainable Sport Entrepreneurship and Innovation: A Bibliometric Analysis of This Emerging Field of Research",
+      "journal": "Sustainability",
+      "volume": "12",
+      "issue": "12",
+      "page": "5209",
+      "article_number": "",
+      "year": 2020,
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "authors": "González-Serrano, María Huertas; Añó Sanz, Vicente; González-García, Rómulo Jacobo",
+      "n_authors": 3
+    },
+    "10.1007/s12525-025-00847-y": {
+      "title": "AI-powered smart tourism 2.0: A 10-year retrospective and updated model",
+      "journal": "Electronic Markets",
+      "volume": "35",
+      "issue": "1",
+      "page": "",
+      "article_number": "108",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": "Koo, Chulmo; Shin, Seunghun; Gretzel, Ulrike; Xiang, Zheng",
+      "n_authors": 4
+    },
+    "10.1177/09708464251335116": {
+      "title": "Research Lines on Social Entrepreneurship and Tourism: A Text Mining Analysis",
+      "journal": "SEDME (Small Enterprises Development, Management &amp; Extension Journal): A worldwide window on MSME Studies",
+      "volume": "52",
+      "issue": "2",
+      "page": "211-225",
+      "article_number": "",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "SAGE Publications",
+      "authors": "Kumari, Manisha",
+      "n_authors": 1
+    },
+    "10.1007/s40497-024-00399-z": {
+      "title": "Mapping the landscape: a comprehensive bibliometric analysis of literature on entrepreneurship in tourism (2013–2023)",
+      "journal": "Journal of Global Entrepreneurship Research",
+      "volume": "14",
+      "issue": "1",
+      "page": "",
+      "article_number": "29",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": "Mumtaz, Uzma; Faisal, Mohammad",
+      "n_authors": 2
+    },
+    "10.46827/ejsss.v9i3.1610": {
+      "title": "RESEARCH TRENDS ON COMMUNITY-BASED TOURISM IN THE PERIOD 2013 - 2023",
+      "journal": "European Journal of Social Sciences Studies",
+      "volume": "9",
+      "issue": "3",
+      "page": "",
+      "article_number": "",
+      "year": 2023,
+      "type": "journal-article",
+      "publisher": "Open Access Publishing Group",
+      "authors": "Phuong, Nguyen Thi Huynh; Ba, Nguyen Thi Be; Quyen, Le Thi To; Tien, Ly My; Lan, Mai Thi Kieu",
+      "n_authors": 5
+    },
+    "10.3389/fspor.2025.1680229": {
+      "title": "Cultural heritage and sports tourism: a systematic literature review of sustainable destination management practices",
+      "journal": "Frontiers in Sports and Active Living",
+      "volume": "7",
+      "issue": "",
+      "page": "",
+      "article_number": "1680229",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "Frontiers Media SA",
+      "authors": "Rangkuti, Yoki Afriandy; Bangun, Arti Kurniaty; Kurniawan, Rizkei; Ilham, Zulpikar; Hasibuan, Sanusi; Tambunan, Try Marta Br; Silitonga, Daniel Fransisco",
+      "n_authors": 7
+    },
+    "10.3390/admsci15040130": {
+      "title": "Women’s Entrepreneurship in the Tourism Industry: A Bibliometric Study",
+      "journal": "Administrative Sciences",
+      "volume": "15",
+      "issue": "4",
+      "page": "130",
+      "article_number": "",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "MDPI AG",
+      "authors": "Rodríguez-Vera, Ainhoa del Pino; Rando-Cueto, Dolores; de las Heras Pedrosa, Carlos",
+      "n_authors": 3
+    },
+    "10.1371/journal.pone.0296659": {
+      "title": "Protective and risk factors of mental health of working age adults with adventitious total bilateral blindness and low vision: A scoping review protocol",
+      "journal": "PLOS ONE",
+      "volume": "19",
+      "issue": "1",
+      "page": "e0296659",
+      "article_number": "",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Public Library of Science (PLoS)",
+      "authors": "Dike, Nneoma; D’Ambruoso, Lucia; Morgan, Heather May; Skea, Zoë; Tarburn, Emma-Louise",
+      "n_authors": 5
+    },
+    "10.1016/j.jdmm.2025.101004": {
+      "title": "Sport destination competitiveness and attractiveness: Scale development and validation",
+      "journal": "Journal of Destination Marketing &amp; Management",
+      "volume": "37",
+      "issue": "",
+      "page": "101004",
+      "article_number": "101004",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Moradi, Erfan; Norouzi Seyed Hossini, Rasool",
+      "n_authors": 2
+    },
+    "10.1016/j.heliyon.2024.e25627": {
+      "title": "How has rural tourism influenced the sustainable development of traditional villages? A systematic literature review",
+      "journal": "Heliyon",
+      "volume": "10",
+      "issue": "4",
+      "page": "e25627",
+      "article_number": "e25627",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Yanan, Li; Ismail, Muhammad Azzam; Aminuddin, Asrul",
+      "n_authors": 3
+    },
+    "10.1016/j.jdmm.2023.100850": {
+      "title": "Attracting digital nomads: Smart destination strategies, innovation and competitiveness",
+      "journal": "Journal of Destination Marketing &amp; Management",
+      "volume": "31",
+      "issue": "",
+      "page": "100850",
+      "article_number": "100850",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Zhou, Lingxu; Buhalis, Dimitrios; Fan, Daisy X.F.; Ladkin, Adele; Lian, Xiao",
+      "n_authors": 5
+    },
+    "10.1002/(SICI)1099-0526(19980805/06)17:5/6<295::AID-CEM932>3.0.CO;2-P": {
+      "error": "HTTPError"
+    },
+    "10.1016/j.joi.2010.08.010": {
+      "error": "HTTPError"
+    },
+    "10.1016/j.jbusres.2018.04.011": {
+      "title": "Online recruitment in Portugal: Theories and candidate profiles",
+      "journal": "Journal of Business Research",
+      "volume": "94",
+      "issue": "",
+      "page": "273-279",
+      "article_number": "",
+      "year": 2019,
+      "type": "journal-article",
+      "publisher": "Elsevier BV",
+      "authors": "Brandão, Catarina; Silva, Rita; dos Santos, Joana Vieira",
+      "n_authors": 3
+    }
+  },
+  "queries": {
+    "Arici 2025 sports tourism bibliometric": [
+      {
+        "doi": "10.1177/14673584231218106",
+        "title": "Sports tourism research: A bibliometric analysis and agenda for further inquiry",
+        "journal": "Tourism and Hospitality Research",
+        "volume": "25",
+        "issue": "3",
+        "page": "406-420",
+        "year": 2023,
+        "authors": "Arici, Hasan Evrim; Aydin, Cagdas; Koseoglu, Mehmet Ali; Sökmen, Alptekin"
+      },
+      {
+        "doi": "10.1016/j.ijhm.2022.103417",
+        "title": "Job embeddedness in hospitality and tourism scholarship: Past, present, and future research agenda",
+        "journal": "International Journal of Hospitality Management",
+        "volume": "109",
+        "issue": "",
+        "page": "103417",
+        "year": 2023,
+        "authors": "Arici, Hasan Evrim; Arasli, Huseyin; Köseoglu, Mehmet Ali; Sokmen, Alev; Arici, Nagihan Cakmakoglu"
+      },
+      {
+        "doi": "10.1108/jhtt-12-2024-0867",
+        "title": "Tour guiding technologies: a bibliometric analysis, mapping trends and future research agenda",
+        "journal": "Journal of Hospitality and Tourism Technology",
+        "volume": "",
+        "issue": "",
+        "page": "1-35",
+        "year": 2026,
+        "authors": "Şahin, İlker; Cakmakoglu Arici, Nagihan; Koç, Dilara Eylül"
+      }
+    ],
+    "Buhalis 2020 technology in tourism": [
+      {
+        "doi": "10.1108/tr-06-2019-0258",
+        "title": "Technology in tourism-from information communication technologies to eTourism and smart tourism towards ambient intelligence tourism: a perspective article",
+        "journal": "Tourism Review",
+        "volume": "75",
+        "issue": "1",
+        "page": "267-272",
+        "year": 2019,
+        "authors": "Buhalis, Dimitrios"
+      },
+      {
+        "doi": "10.1007/3-211-32710-x_24",
+        "title": "Developing an eTourism Platform for Accessible Tourism in Europe: Technical Challenges",
+        "journal": "Information and Communication Technologies in Tourism 2006",
+        "volume": "",
+        "issue": "",
+        "page": "170-170",
+        "year": null,
+        "authors": "Michopoulou, Eleni; Buhalis, Dimitrios"
+      },
+      {
+        "doi": "10.1007/978-3-7091-6027-5_5",
+        "title": "eTourism Developments in Greece",
+        "journal": "Information and Communication Technologies in Tourism 2003",
+        "volume": "",
+        "issue": "",
+        "page": "39-48",
+        "year": 2003,
+        "authors": "Deimezi, Ourania; Buhalis, Dimitrios"
+      }
+    ],
+    "Getz Page 2016 event tourism": [
+      {
+        "doi": "10.1016/j.tourman.2015.03.007",
+        "title": "Progress and prospects for event tourism research",
+        "journal": "Tourism Management",
+        "volume": "52",
+        "issue": "",
+        "page": "593-631",
+        "year": 2016,
+        "authors": "Getz, Donald; Page, Stephen J."
+      },
+      {
+        "doi": "10.4324/9781003374251-15",
+        "title": "Event Tourism",
+        "journal": "Event Studies",
+        "volume": "",
+        "issue": "",
+        "page": "358-379",
+        "year": 2023,
+        "authors": "Getz, Donald; Page, Stephen J."
+      },
+      {
+        "doi": "10.1016/j.tourman.2004.02.008",
+        "title": "Successful event management: a practical handbook",
+        "journal": "Tourism Management",
+        "volume": "26",
+        "issue": "4",
+        "page": "628-630",
+        "year": 2005,
+        "authors": "Getz, Donald; Page, Stephen J."
+      }
+    ],
+    "Gretzel 2025 smart tourism 2.0": [
+      {
+        "doi": "10.1007/s12525-025-00847-y",
+        "title": "AI-powered smart tourism 2.0: A 10-year retrospective and updated model",
+        "journal": "Electronic Markets",
+        "volume": "35",
+        "issue": "1",
+        "page": "",
+        "year": 2025,
+        "authors": "Koo, Chulmo; Shin, Seunghun; Gretzel, Ulrike; Xiang, Zheng"
+      },
+      {
+        "doi": "10.1007/s40558-025-00317-3",
+        "title": "AI-powered smartphones and phygital tourism experiences: implications and future research directions",
+        "journal": "Information Technology &amp; Tourism",
+        "volume": "27",
+        "issue": "2",
+        "page": "307-316",
+        "year": 2025,
+        "authors": "Stankov, Uglješa; Gretzel, Ulrike; Vujičić, Miroslav D."
+      },
+      {
+        "doi": "10.1177/27652157261460942",
+        "title": "TechTalk Interview: Dimitrios Buhalis, Cihan Cobanoglu, Raghav Rao, Zheng Xiang, and Chulmo Koo “The Role of AI and its Impact in Smart Tourism”",
+        "journal": "Journal of Smart Tourism",
+        "volume": "6",
+        "issue": "3",
+        "page": "241-246",
+        "year": 2026,
+        "authors": "Lee, Yejin; Gretzel, Ulrike"
+      }
+    ],
+    "Ivanycheva 2024 lifestyle entrepreneurship": [
+      {
+        "doi": "10.1111/joms.13000",
+        "title": "Lifestyle Entrepreneurship: Literature Review and Future Research Agenda",
+        "journal": "Journal of Management Studies",
+        "volume": "61",
+        "issue": "5",
+        "page": "2251-2286",
+        "year": 2023,
+        "authors": "Ivanycheva, Diana; Schulze, William S.; Lundmark, Erik; Chirico, Francesco"
+      },
+      {
+        "doi": "10.37335/ijek.v7i2.90",
+        "title": "GREEN ENTREPRENEURSHIP: LITERATURE REVIEW AND AGENDA FOR FUTURE RESEARCH",
+        "journal": "International Journal of Entrepreneurial Knowledge",
+        "volume": "7",
+        "issue": "2",
+        "page": "",
+        "year": 2019,
+        "authors": "Muo, Ik; Azeez, Adebayo A."
+      },
+      {
+        "doi": "10.1142/s1084946721500187",
+        "title": "GENDER, POVERTY AND ENTREPRENEURSHIP: A SYSTEMATIC LITERATURE REVIEW AND FUTURE RESEARCH AGENDA",
+        "journal": "Journal of Developmental Entrepreneurship",
+        "volume": "26",
+        "issue": "03",
+        "page": "",
+        "year": 2021,
+        "authors": "SANTOS, SUSANA C.; NEUMEYER, XAVER"
+      }
+    ],
+    "Mongeon Paul-Hus 2016": [
+      {
+        "doi": "10.1007/s11192-015-1765-5",
+        "title": "The journal coverage of Web of Science and Scopus: a comparative analysis",
+        "journal": "Scientometrics",
+        "volume": "106",
+        "issue": "1",
+        "page": "213-228",
+        "year": 2015,
+        "authors": "Mongeon, Philippe; Paul-Hus, Adèle"
+      },
+      {
+        "doi": "10.1162/qss.a.1",
+        "title": "Examining the geographic and linguistic coverage of gold and diamond open access journals in OpenAlex, Scopus, and Web of Science",
+        "journal": "Quantitative Science Studies",
+        "volume": "6",
+        "issue": "",
+        "page": "732-752",
+        "year": 2025,
+        "authors": "Simard, Marc-André; Basson, Isabel; Hare, Madelaine; Larivière, Vincent; Mongeon, Philippe"
+      },
+      {
+        "doi": "10.1162/qss_a_00036",
+        "title": "Who are the acknowledgees? An analysis of gender and academic status",
+        "journal": "Quantitative Science Studies",
+        "volume": "1",
+        "issue": "2",
+        "page": "582-598",
+        "year": 2020,
+        "authors": "Paul-Hus, Adèle; Mongeon, Philippe; Sainte-Marie, Maxime; Larivière, Vincent"
+      }
+    ],
+    "Nguyen Nguyen 2024 community-based tourism": [
+      {
+        "doi": "10.1016/j.ecores.2026.100023",
+        "title": "Research trends in community-based tourism: A bibliometric analysis",
+        "journal": "Global Economics Research",
+        "volume": "2",
+        "issue": "1",
+        "page": "100023",
+        "year": 2026,
+        "authors": "Nguyen, Thi Quynh Huong; Nguyen, Quang Vinh"
+      },
+      {
+        "doi": "10.2139/ssrn.5077675",
+        "title": "Community-Based Tourism Participation Obstacles: Trends, Themes, and Global Research Insights",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2024,
+        "authors": "Le, Cuong  Chi Hung; Hoang, Ha  Dung; Nguyen, Chung  Van; Nguyen, Dung  Tien"
+      },
+      {
+        "doi": "10.46827/ejsss.v9i3.1610",
+        "title": "RESEARCH TRENDS ON COMMUNITY-BASED TOURISM IN THE PERIOD 2013 - 2023",
+        "journal": "European Journal of Social Sciences Studies",
+        "volume": "9",
+        "issue": "3",
+        "page": "",
+        "year": 2023,
+        "authors": "Phuong, Nguyen Thi Huynh; Ba, Nguyen Thi Be; Quyen, Le Thi To; Tien, Ly My; Lan, Mai Thi Kieu"
+      }
+    ],
+    "Schonherr 2023 digital transformation sustainable tourism": [
+      {
+        "doi": "10.1108/jkm-06-2022-0434",
+        "title": "Organisational learning and sustainable tourism: the enabling role of digital transformation",
+        "journal": "Journal of Knowledge Management",
+        "volume": "27",
+        "issue": "11",
+        "page": "82-100",
+        "year": 2023,
+        "authors": "Schönherr, Sarah; Eller, Robert; Kallmuenzer, Andreas; Peters, Mike"
+      },
+      {
+        "doi": "10.4018/979-8-3693-3390-7.ch005",
+        "title": "Sustaining Competing Hotels",
+        "journal": "Advances in Hospitality, Tourism, and the Services Industry",
+        "volume": "",
+        "issue": "",
+        "page": "67-89",
+        "year": 2024,
+        "authors": "Sa Liow, Melissa Li; Subramaniam, S. Salitha Nair D. O. M."
+      },
+      {
+        "doi": "10.4324/9780429027383-10",
+        "title": "Trade-offs between dimensions of sustainability: exploratory evidence from family firms in rural tourism regions",
+        "journal": "Corporate Social Responsibility for Sustainable Tourism",
+        "volume": "",
+        "issue": "",
+        "page": "178-195",
+        "year": 2020,
+        "authors": "Kallmuenzer, Andreas; Nikolakis, William; Peters, Mike; Zanon, Johanna"
+      }
+    ],
+    "Sudarmanto 2024 sports tourism sustainable destinations": [
+      {
+        "doi": "10.47197/retos.v62.108401",
+        "title": "A Systematic Review for The Development of Sustainable Tourism Destinations Based on Sports Tourism",
+        "journal": "Retos",
+        "volume": "62",
+        "issue": "",
+        "page": "646-654",
+        "year": 2024,
+        "authors": "Sudarmanto, Eko; Budi Raharjo, Bambang; Kristiyanto, Agus; Sulaiman, Sulaiman; Setyawati, Heny; Priyono, Bambang; Jariono, Gatot"
+      },
+      {
+        "doi": "10.2307/jj.28209974.10",
+        "title": "Responsible Tourism in Destinations",
+        "journal": "Responsible Tourism",
+        "volume": "",
+        "issue": "",
+        "page": "101-144",
+        "year": 2016,
+        "authors": ""
+      },
+      {
+        "doi": "10.2478/9788395720406",
+        "title": "Proceedings of Tourism Development Centre International Conference",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2020,
+        "authors": ""
+      }
+    ],
+    "Suryandhani 2023 tourism village": [
+      {
+        "doi": "10.21580/prosperity.2023.3.1.14744",
+        "title": "Relationship of Social Capital and Collective Action in The Development of Tourism Village",
+        "journal": "Prosperity: Journal of Society and Empowerment",
+        "volume": "3",
+        "issue": "1",
+        "page": "1-18",
+        "year": 2023,
+        "authors": "Suryandhani, Allifia Rizqi; Prayitno, Gunawan; Surjono, Surjono"
+      },
+      {
+        "doi": "10.1111/issj.12554/v2/response1",
+        "title": "Author response for \"The Role of Community Social Capital and Collective Action in the Development of Sustainable Tourism\"",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2024,
+        "authors": "Aidha Auliah; Gunawan Prayitno; Ismu Rini Dwi Ari; Dimas Wisnu Adrianto; Aris Subagiyo; N. V. Biloshkurska; Hairi Ismaili"
+      },
+      {
+        "doi": "10.1111/issj.12554/v5/response1",
+        "title": "Author response for \"The Role of Community Social Capital and Collective Action in the Development of Sustainable Tourism\"",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2024,
+        "authors": "Aidha Auliah; Gunawan Prayitno; Ismu Rini Dwi Ari; Dimas Wisnu Adrianto; Aris Subagiyo; N. V. Biloshkurska; Hairi Ismaili"
+      }
+    ],
+    "Suwanmanee 2025 social innovation CBT": [
+      {
+        "doi": "10.5539/ass.v9n17p226",
+        "title": "A SWOT Analysis of Tourism Development in Khon Kaen, Thailand",
+        "journal": "Asian Social Science",
+        "volume": "9",
+        "issue": "17",
+        "page": "",
+        "year": 2013,
+        "authors": "Kantawateera, Komain; Naipinit, Aree; Promsaka Na Sakolnakorn, Thongphon; Churngchow, Chidchanok; Kroeksakul, Patarapong"
+      },
+      {
+        "doi": "10.5539/ass.v10n6p53",
+        "title": "The Satisfaction of Tourists and Policy Guidelines for Tourism Development in Khon Kaen, Thailand",
+        "journal": "Asian Social Science",
+        "volume": "10",
+        "issue": "6",
+        "page": "",
+        "year": 2014,
+        "authors": "Kantawateera, Komain; Naipinit, Aree; Promsaka Na Sakolnakorn, Thongphon; Kroeksakul, Patarapong"
+      },
+      {
+        "doi": "10.5539/jsd.v6n8p16",
+        "title": "Local Wisdom in the Environmental Management of a Community: Analysis of Local Knowledge in Tha Pong Village, Thailand",
+        "journal": "Journal of Sustainable Development",
+        "volume": "6",
+        "issue": "8",
+        "page": "",
+        "year": 2013,
+        "authors": "Chaiphar, Weerakul; Promsaka Na Sakolnakorn, Thongphon; Naipinit, Aree"
+      }
+    ],
+    "Venkatarman Rajkumar 2025": [
+      {
+        "doi": "10.1007/s40497-025-00499-4",
+        "title": "Entrepreneurship in tourism and hospitality: A Post-Covid-19 systematic review and bibliometric analysis",
+        "journal": "Journal of Global Entrepreneurship Research",
+        "volume": "16",
+        "issue": "1",
+        "page": "",
+        "year": 2026,
+        "authors": "Ul Hassan, Masood; Khakwani, Haseeb Khan; Abbas, Kazim"
+      },
+      {
+        "doi": "10.32479/irmm.16105",
+        "title": "Rajkumar and Venkataraman: Cross-Sectioning Sustainable Supply Chain Governance: A Bibliometric Analysis",
+        "journal": "International Review of Management and Marketing",
+        "volume": "14",
+        "issue": "3",
+        "page": "34-46",
+        "year": 2024,
+        "authors": "Venkatarman, Anirudh; Rajkumar, A. Dunstan"
+      },
+      {
+        "doi": "10.4324/9781003454465-4",
+        "title": "More than a crisis? Corporate entrepreneurship and COVID-19 pandemic in Austrian tourism",
+        "journal": "Corporate Entrepreneurship and Innovation in Tourism and Hospitality",
+        "volume": "",
+        "issue": "",
+        "page": "58-68",
+        "year": 2024,
+        "authors": "Pachucki, Christoph; Scholl-Grissemann, Ursula"
+      }
+    ],
+    "Wibowo 2024 smart sustainable sport tourism planning": [
+      {
+        "doi": "10.18280/mmep.111116",
+        "title": "Optimization Model of Multi Criteria Decision Analysis for Smart and Sustainable Sport Tourism Planning Development Problem",
+        "journal": "Mathematical Modelling of Engineering Problems",
+        "volume": "11",
+        "issue": "11",
+        "page": "3035-3046",
+        "year": 2024,
+        "authors": "Husain; Triwijoyo, Bambang Krismono; Taufik, Muhammad; Mawengkang, Herman"
+      },
+      {
+        "doi": "10.1002/sd.70517",
+        "title": "Sustainable Tourism Development Using Multi‐Criteria Decision Making in China Tourism Destination",
+        "journal": "Sustainable Development",
+        "volume": "34",
+        "issue": "3",
+        "page": "3672-3688",
+        "year": 2025,
+        "authors": "Li, Jinjie"
+      },
+      {
+        "doi": "10.12720/jait.15.5.630-641",
+        "title": "Multi-Objective Preference Analysis: A Novel Multi-Criteria Decision Analysis Approach for Smart Sharia Tourism Planning",
+        "journal": "Journal of Advances in Information Technology",
+        "volume": "",
+        "issue": "",
+        "page": "630-641",
+        "year": 2024,
+        "authors": "Riandari, Fristi; Defit, Sarjon; Yuhandri"
+      }
+    ],
+    "Callon 1983 co-word analysis": [
+      {
+        "doi": "10.1177/053901883022002003",
+        "title": "From translations to problematic networks: An introduction to co-word analysis",
+        "journal": "Social Science Information",
+        "volume": "22",
+        "issue": "2",
+        "page": "191-235",
+        "year": 1983,
+        "authors": "Callon, Michel; Courtial, Jean-Pierre; Turner, William A.; Bauin, Serge"
+      },
+      {
+        "doi": "10.1007/bf02020078",
+        "title": "Policy and the mapping of scientific change: A co-word analysis of research into environmental acidification",
+        "journal": "Scientometrics",
+        "volume": "14",
+        "issue": "3-4",
+        "page": "251-264",
+        "year": 1988,
+        "authors": "Law, J.; Bauin, S.; Courtial, J. -P.; Whittaker, J."
+      },
+      {
+        "doi": "10.1177/016555158400900201",
+        "title": "Is indexing trustworthy? Classification of articles through co-word analysis",
+        "journal": "Journal of Information Science",
+        "volume": "9",
+        "issue": "2",
+        "page": "47-56",
+        "year": 1984,
+        "authors": "Courtial, J.-P.; Callon, M.; Sigogneau, M."
+      }
+    ],
+    "Lee Seung 1999 NMF": [
+      {
+        "doi": "10.1038/44565",
+        "title": "Learning the parts of objects by non-negative matrix factorization",
+        "journal": "Nature",
+        "volume": "401",
+        "issue": "6755",
+        "page": "788-791",
+        "year": 1999,
+        "authors": "Lee, Daniel D.; Seung, H. Sebastian"
+      },
+      {
+        "doi": "10.1109/access.2018.2873385",
+        "title": "Learning the Hierarchical Parts of Objects by Deep Non-Smooth Nonnegative Matrix Factorization",
+        "journal": "IEEE Access",
+        "volume": "6",
+        "issue": "",
+        "page": "58096-58105",
+        "year": 2018,
+        "authors": "Yu, Jinshi; Zhou, Guoxu; Cichocki, Andrzej; Xie, Shengli"
+      },
+      {
+        "doi": "10.1016/j.sigpro.2012.07.015",
+        "title": "On-line learning parts-based representation via incremental orthogonal projective non-negative matrix factorization",
+        "journal": "Signal Processing",
+        "volume": "93",
+        "issue": "6",
+        "page": "1608-1623",
+        "year": 2013,
+        "authors": "Wang, Dong; Lu, Huchuan"
+      }
+    ],
+    "Blei 2003 LDA": [
+      {
+        "doi": "10.7551/mitpress/1120.003.0082",
+        "title": "Latent Dirichlet Allocation",
+        "journal": "Advances in Neural Information Processing Systems 14",
+        "volume": "",
+        "issue": "",
+        "page": "601-608",
+        "year": 2002,
+        "authors": "Blei, David M.; Ng, Andrew Y.; Jordan, Michael I."
+      },
+      {
+        "doi": "10.32469/10355/56468",
+        "title": "Partial membership latent Dirichlet allocation",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": "Chen, Chao"
+      },
+      {
+        "doi": "10.7717/peerj-cs.2300/fig-2",
+        "title": "Figure 2: Word embedding latent Dirichlet allocation (WELDA).",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      }
+    ],
+    "Burt 2004 structural holes": [
+      {
+        "doi": "10.4337/9781789909432.00030",
+        "title": "Structural holes and good ideas",
+        "journal": "Handbook of Sociological Science",
+        "volume": "",
+        "issue": "",
+        "page": "372-422",
+        "year": 2022,
+        "authors": "Burt, Ronald S."
+      },
+      {
+        "doi": "10.1086/421787",
+        "title": "Structural Holes and Good Ideas",
+        "journal": "American Journal of Sociology",
+        "volume": "110",
+        "issue": "2",
+        "page": "349-399",
+        "year": 2004,
+        "authors": "Burt, Ronald S."
+      },
+      {
+        "doi": "10.4159/9780674029095",
+        "title": "Structural Holes",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 1992,
+        "authors": "Burt, Ronald S."
+      }
+    ],
+    "Freeman 1978 centrality": [
+      {
+        "doi": "10.1016/0378-8733(78)90021-7",
+        "title": "Centrality in social networks conceptual clarification",
+        "journal": "Social Networks",
+        "volume": "1",
+        "issue": "3",
+        "page": "215-239",
+        "year": 1978,
+        "authors": "Freeman, Linton C."
+      },
+      {
+        "doi": "10.1016/0378-8733(79)90002-9",
+        "title": "Centrality in social networks: ii. experimental results",
+        "journal": "Social Networks",
+        "volume": "2",
+        "issue": "2",
+        "page": "119-141",
+        "year": 1979,
+        "authors": "Freeman, Linton C; Roeder, Douglas; Mulholland, Robert R"
+      },
+      {
+        "doi": "10.1016/j.socnet.2015.08.003",
+        "title": "Maintaining the duality of closeness and betweenness centrality",
+        "journal": "Social Networks",
+        "volume": "44",
+        "issue": "",
+        "page": "153-159",
+        "year": 2016,
+        "authors": "Brandes, Ulrik; Borgatti, Stephen P.; Freeman, Linton C."
+      }
+    ],
+    "Higham Hinch 2018 sport tourism development": [
+      {
+        "doi": "10.21832/higham6553",
+        "title": "Sport Tourism Development",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2018,
+        "authors": "Higham, James; Hinch, Tom"
+      },
+      {
+        "doi": "10.2307/jj.36768591",
+        "title": "Sport Tourism Development",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2003,
+        "authors": "Hinch, Thomas; Higham, James"
+      },
+      {
+        "doi": "10.2307/jj.30945692",
+        "title": "Sport Tourism Development",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2011,
+        "authors": "Hinch, Tom; Higham, James"
+      }
+    ],
+    "Ratten 2018 sport entrepreneurship": [
+      {
+        "doi": "10.1007/978-981-97-8923-8_1",
+        "title": "Sport Entrepreneurship",
+        "journal": "Sport Entrepreneurial Ecosystems",
+        "volume": "",
+        "issue": "",
+        "page": "1-11",
+        "year": 2024,
+        "authors": "Ratten, Vanessa"
+      },
+      {
+        "doi": "10.1108/978-1-83982-836-220201010",
+        "title": "Sport Entrepreneurship and Entrepreneurial Ecosystems",
+        "journal": "Sport Entrepreneurship",
+        "volume": "",
+        "issue": "",
+        "page": "75-92",
+        "year": 2020,
+        "authors": "Ratten, Vanessa; Nanere, Marthin"
+      },
+      {
+        "doi": "10.4324/9781351141048-4",
+        "title": "Entrepreneurial ecosystems in sport",
+        "journal": "Social Entrepreneurship in Sport",
+        "volume": "",
+        "issue": "",
+        "page": "49-68",
+        "year": 2019,
+        "authors": "Ratten, Vanessa"
+      }
+    ],
+    "van Eck Waltman 2014": [
+      {
+        "doi": "10.1007/978-3-319-10377-8_13",
+        "title": "Visualizing Bibliometric Networks",
+        "journal": "Measuring Scholarly Impact",
+        "volume": "",
+        "issue": "",
+        "page": "285-320",
+        "year": 2014,
+        "authors": "van Eck, Nees Jan; Waltman, Ludo"
+      },
+      {
+        "doi": "10.1016/j.joi.2014.07.006",
+        "title": "CitNetExplorer: A new software tool for analyzing and visualizing citation networks",
+        "journal": "Journal of Informetrics",
+        "volume": "8",
+        "issue": "4",
+        "page": "802-823",
+        "year": 2014,
+        "authors": "van Eck, Nees Jan; Waltman, Ludo"
+      },
+      {
+        "doi": "10.1109/fuzzy.2006.1681931",
+        "title": "Visualizing the WCCI 2006 Knowledge Domain",
+        "journal": "2006 IEEE International Conference on Fuzzy Systems",
+        "volume": "",
+        "issue": "",
+        "page": "1671-1678",
+        "year": 2006,
+        "authors": "van Eck, N.J.; Waltman, L.; van den Berg, J.; Kaymak, U."
+      }
+    ],
+    "Monroe 2008 log-odds": [
+      {
+        "doi": "10.7717/peerj.20968/table-5",
+        "title": "Table 5: Odds ratio of the association between CONUT score and cerebrovascular stenosis risk in subgroup analysis.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      },
+      {
+        "doi": "10.1002/9781118391778.ch4",
+        "title": "Hierarchical Log‐Linear Models and Odds Ratio Analysis",
+        "journal": "Log‐Linear Modeling",
+        "volume": "",
+        "issue": "",
+        "page": "55-97",
+        "year": 2012,
+        "authors": ""
+      },
+      {
+        "doi": "10.7717/peerj.11574/fig-2",
+        "title": "Figure 2: Log-transformed odds ratio vaginal microbiome dominance.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      }
+    ],
+    "Grimmer Roberts Stewart 2018": [
+      {
+        "doi": "10.17356/ieejsp.v10i4.1410",
+        "title": "Book Review",
+        "journal": "Intersections",
+        "volume": "10",
+        "issue": "4",
+        "page": "160-165",
+        "year": 2024,
+        "authors": "Varga, Tamás"
+      },
+      {
+        "doi": "10.1177/00018392241239340",
+        "title": "Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. Text as Data: A New Framework for Machine Learning and the Social Sciences",
+        "journal": "Administrative Science Quarterly",
+        "volume": "69",
+        "issue": "3",
+        "page": "NP49-NP52",
+        "year": 2024,
+        "authors": "Valadao, Rodrigo"
+      },
+      {
+        "doi": "10.1093/llc/fqac068",
+        "title": "Text as Data: A New Framework for Machine Learning and the Social Sciences. Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart",
+        "journal": "Digital Scholarship in the Humanities",
+        "volume": "38",
+        "issue": "1",
+        "page": "458-460",
+        "year": 2022,
+        "authors": "Zhao, Qiuying; Wang, Shunyu"
+      }
+    ],
+    "FIG Working Paper 2020 mapping topic models": [
+      {
+        "doi": "10.1127/anthranz/2023/1660",
+        "title": "Topic Modeling as an evaluation basis in literature research – A proposal for a new literature review method for machine-assisted source evaluation using the example of anthropology",
+        "journal": "Anthropologischer Anzeiger",
+        "volume": "80",
+        "issue": "2",
+        "page": "119-134",
+        "year": 2023,
+        "authors": "Lutz, Alexander Maximilian; Lutz, Regina"
+      },
+      {
+        "doi": "10.31224/6897",
+        "title": "Systematic Literature Review of Verification and Validation of Simulation Models in Business and Manufacturing using Topic Modeling",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2026,
+        "authors": "Gotherwal, Deepesh; Ranjan, Pritam; Lekivetz, Ryan"
+      },
+      {
+        "doi": "10.1002/essoar.10501825.1",
+        "title": "Hidden Stories: Topic Modeling in Hydrology Literature",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2020,
+        "authors": "Rahman, Mashrekur; Nearing, Grey; Frame, Jonathan"
+      }
+    ],
+    "Cobo 2012 science mapping software": [
+      {
+        "doi": "10.1002/asi.21525",
+        "title": "Science mapping software tools: Review, analysis, and cooperative study among tools",
+        "journal": "Journal of the American Society for Information Science and Technology",
+        "volume": "62",
+        "issue": "7",
+        "page": "1382-1402",
+        "year": 2011,
+        "authors": "Cobo, M.J.; López-Herrera, A.G.; Herrera-Viedma, E.; Herrera, F."
+      },
+      {
+        "doi": "10.1007/978-3-030-02511-3_7",
+        "title": "Science Mapping Analysis Software Tools: A Review",
+        "journal": "Springer Handbooks",
+        "volume": "",
+        "issue": "",
+        "page": "159-185",
+        "year": 2019,
+        "authors": "Moral-Munoz, Jose A.; López-Herrera, Antonio G.; Herrera-Viedma, Enrique; Cobo, Manuel J."
+      },
+      {
+        "doi": "10.1002/asi.22688",
+        "title": "<scp>SciMAT</scp>\n                    : A new science mapping analysis software tool",
+        "journal": "Journal of the American Society for Information Science and Technology",
+        "volume": "63",
+        "issue": "8",
+        "page": "1609-1630",
+        "year": 2012,
+        "authors": "Cobo, M.J.; López‐Herrera, A.G.; Herrera‐Viedma, E.; Herrera, F."
+      }
+    ],
+    "Cuccurullo 2016 cite space": [
+      {
+        "doi": "10.2307/j.ctv16t7x.15",
+        "title": "REFERENCES CITED",
+        "journal": "Abenaki basketry",
+        "volume": "",
+        "issue": "",
+        "page": "118-118",
+        "year": null,
+        "authors": ""
+      },
+      {
+        "doi": "10.2307/j.ctt4cgs50.17",
+        "title": "REFERENCES CITED",
+        "journal": "Anonimo Mexicano",
+        "volume": "",
+        "issue": "",
+        "page": "102-102",
+        "year": null,
+        "authors": ""
+      },
+      {
+        "doi": "10.2307/j.ctvxw3nkc.17",
+        "title": "References Cited",
+        "journal": "Ōsaka Archaeology",
+        "volume": "",
+        "issue": "",
+        "page": "116-131",
+        "year": 2016,
+        "authors": ""
+      }
+    ],
+    "Perdana 2020 topic": [
+      {
+        "doi": "10.7717/peerjcs.1193/fig-3",
+        "title": "Figure 3: LDA topic modeling.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      },
+      {
+        "doi": "10.7717/peerj-cs.2608/table-5",
+        "title": "Algorithm 1: Topic modeling algorithm.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      },
+      {
+        "doi": "10.7717/peerjcs.2919/fig-4",
+        "title": "Figure 4: SportsBERT topic modeling clusters.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      }
+    ],
+    "Callaghan 2008 topic models": [
+      {
+        "doi": "10.1007/978-981-99-2431-8_2",
+        "title": "Topic Models",
+        "journal": "Probabilistic Topic Models",
+        "volume": "",
+        "issue": "",
+        "page": "27-46",
+        "year": 2023,
+        "authors": "Jiang, Di; Zhang, Chen; Song, Yuanfeng"
+      },
+      {
+        "doi": "10.32657/10356/145117",
+        "title": "A study on dual topic models and bayesian topic model inference",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": "Rugeles, Daniel"
+      },
+      {
+        "doi": "10.7717/peerj-cs.1459/supp-8",
+        "title": "Supplemental Information 8: Overall topic coherence scores of the HTM and LDA topic models",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": null,
+        "authors": ""
+      }
+    ],
+    "Chung Lee 2003 topic": [
+      {
+        "doi": "10.5220/0011716900003414",
+        "title": "Analysis of Driving Behavior by Applying LDA Topic Model at Intersection Using VR Simulator",
+        "journal": "Proceedings of the 16th International Joint Conference on Biomedical Engineering Systems and Technologies",
+        "volume": "",
+        "issue": "",
+        "page": "432-438",
+        "year": 2023,
+        "authors": "Lee, Hyeokmin; Moon, Hosang; Kim, Jaehoon; Lee, Jaeheui; Lee, Eunghyuk; Chung, Sungtaek"
+      },
+      {
+        "doi": "10.1109/itng.2011.153",
+        "title": "Dynamic Item Recommendation by Topic Modeling for Social Networks",
+        "journal": "2011 Eighth International Conference on Information Technology: New Generations",
+        "volume": "",
+        "issue": "",
+        "page": "884-889",
+        "year": 2011,
+        "authors": "Lee, Sang Su; Chung, Tagyoung; McLeod, Dennis"
+      },
+      {
+        "doi": "10.1109/mmb.2005.1548370",
+        "title": "Microfabricated fluorescence-activated cell sorter with hydrodynamic flow manipulation",
+        "journal": "2005 3rd IEEE/EMBS Special Topic Conference on Microtechnology in Medicine and Biology",
+        "volume": "",
+        "issue": "",
+        "page": "13-14",
+        "year": null,
+        "authors": "Bang, H.; Chung, C.; Kim, J.K.; Chung, S.; Lee, W.C.; Han, D.-C.; Chang, J.K."
+      }
+    ],
+    "Piantadosi Howlett 2011 keywords": [
+      {
+        "doi": "10.1007/0-387-26771-9_16",
+        "title": "Analysis of a Practical Control Policy for Water Storage in Two Connected Dams",
+        "journal": "Applied Optimization",
+        "volume": "",
+        "issue": "",
+        "page": "435-450",
+        "year": null,
+        "authors": "Howlett, Phil; Piantadosi, Julia; Pearce, Charles"
+      },
+      {
+        "doi": "10.1007/978-0-387-98096-6_15",
+        "title": "Analysis of a simple control policy for stormwater management in two connected dams",
+        "journal": "Springer Optimization and Its Applications",
+        "volume": "",
+        "issue": "",
+        "page": "273-306",
+        "year": 2009,
+        "authors": "Piantadosi, Julia; Howlett, Phil"
+      },
+      {
+        "doi": "10.21914/anziamj.v51i0.2594",
+        "title": "Scheduling trains with cross entropy optimisation",
+        "journal": "ANZIAM Journal",
+        "volume": "51",
+        "issue": "",
+        "page": "332",
+        "year": 2010,
+        "authors": "Wadhawan, Indu Bala; Pudney, Peter; Howlett, Phil; Piantadosi, Julia"
+      }
+    ],
+    "Devey 2020 topic models": [
+      {
+        "doi": "10.5962/bhl.title.19122",
+        "title": "Novum Organum; ed. by Joseph Devey.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 1902,
+        "authors": "Bacon, Francis; Bacon, Francis; Devey, Joseph"
+      },
+      {
+        "doi": "10.5962/bhl.title.17510",
+        "title": "Novum Organum; ed. by Joseph Devey.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 1902,
+        "authors": "Bacon, Francis; Bacon, Francis; Devey, Joseph"
+      },
+      {
+        "doi": "10.5962/bhl.title.19155",
+        "title": "Advancement of learning / by Lord Bacon ; edited by Joseph Devey.",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 1902,
+        "authors": "Bacon, Francis; Bacon, Francis; Devey, Joseph."
+      }
+    ],
+    "Stein 2018 computational": [
+      {
+        "doi": "10.21236/ada427731",
+        "title": "Shifting the Computational Paradigm",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2004,
+        "authors": "Stein, Lynn A."
+      },
+      {
+        "doi": "10.1016/0021-9991(67)90047-2",
+        "title": "Computational problems associated with Racah algebra",
+        "journal": "Journal of Computational Physics",
+        "volume": "1",
+        "issue": "3",
+        "page": "397-405",
+        "year": 1967,
+        "authors": "Stein, J"
+      },
+      {
+        "doi": "10.1111/j.1467-8640.1994.tb00157.x",
+        "title": "PHILOSOPHY AS ENGINEERING",
+        "journal": "Computational Intelligence",
+        "volume": "10",
+        "issue": "1",
+        "page": "99-102",
+        "year": 1994,
+        "authors": "Stein, Lynn Andrea"
+      }
+    ],
+    "Gerrero 2021 topic": [
+      {
+        "doi": "10.1134/s0020168509040232",
+        "title": "The action of molasses on properties of coatings obtained with electrodeposition from a SiO2 aqueous suspension",
+        "journal": "Inorganic Materials",
+        "volume": "45",
+        "issue": "4",
+        "page": "450-456",
+        "year": 2009,
+        "authors": "Gerrero-Gerrero, N. A.; Mendoza-Lópes, M. L.; Péres-Robles, J. F.; Mansano-Ramires, A.; Vorob’ev, Yu. V.; Péres-Bueno, J. J."
+      },
+      {
+        "doi": "10.5354/0365-7779.1999.2048",
+        "title": "Eugenio Pereira Salas y su obra. A veinte años de su muerte",
+        "journal": "Anales de la Universidad de Chile",
+        "volume": "0",
+        "issue": "9",
+        "page": "",
+        "year": 2010,
+        "authors": "Gerrero Yoacham, Cristián"
+      },
+      {
+        "doi": "10.1097/00001622-200111000-00001",
+        "title": "Recent advances in breast cancer biology",
+        "journal": "Current Opinion in Oncology",
+        "volume": "13",
+        "issue": "6",
+        "page": "415-419",
+        "year": 2001,
+        "authors": "Gerrero, M. Renee; Weber, Barbara L."
+      }
+    ],
+    "Van Aelst 2013 do-not": [
+      {
+        "doi": "10.1093/benz/9780199773787.article.b00001112",
+        "title": "Aelst, Evert van",
+        "journal": "Benezit Dictionary of Artists",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2011,
+        "authors": ""
+      },
+      {
+        "doi": "10.1093/benz/9780199773787.article.b00001113",
+        "title": "Aelst, Guiliam van",
+        "journal": "Benezit Dictionary of Artists",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2011,
+        "authors": ""
+      },
+      {
+        "doi": "10.1093/gao/9781884446054.article.t000550",
+        "title": "Aelst, Willem van",
+        "journal": "Oxford Art Online",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2003,
+        "authors": "Broos, B. P. J."
+      }
+    ],
+    "Leydesdorff 2004 co-word": [
+      {
+        "doi": "10.1355/9789812306166-003",
+        "title": "III. Investments into the Future: State and Economy at the Beginning of the 21st Century",
+        "journal": "Investments into the Future",
+        "volume": "",
+        "issue": "",
+        "page": "11-16",
+        "year": 2003,
+        "authors": ""
+      },
+      {
+        "doi": "10.2139/ssrn.5481426",
+        "title": "Critical Word-Level Analysis: Building a New Form of Civic Literacy for the 21st Century",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2025,
+        "authors": "Ismoilov, Rahmatulloh"
+      },
+      {
+        "doi": "10.22158/wjer.v11n5p161",
+        "title": "Research Hotspots and Development Trends of Theme Activities in Kindergartens since 21st Century—Based On Visual Co-word Analysis",
+        "journal": "World Journal of Educational Research",
+        "volume": "11",
+        "issue": "5",
+        "page": "p161",
+        "year": 2024,
+        "authors": "Xu, Huiqing"
+      }
+    ],
+    "Cobo 2011": [
+      {
+        "doi": "10.1007/978-3-030-02511-3_7",
+        "title": "Science Mapping Analysis Software Tools: A Review",
+        "journal": "Springer Handbooks",
+        "volume": "",
+        "issue": "",
+        "page": "159-185",
+        "year": 2019,
+        "authors": "Moral-Munoz, Jose A.; López-Herrera, Antonio G.; Herrera-Viedma, Enrique; Cobo, Manuel J."
+      },
+      {
+        "doi": "10.1002/asi.21525",
+        "title": "Science mapping software tools: Review, analysis, and cooperative study among tools",
+        "journal": "Journal of the American Society for Information Science and Technology",
+        "volume": "62",
+        "issue": "7",
+        "page": "1382-1402",
+        "year": 2011,
+        "authors": "Cobo, M.J.; López-Herrera, A.G.; Herrera-Viedma, E.; Herrera, F."
+      },
+      {
+        "doi": "10.1002/asi.22688",
+        "title": "<scp>SciMAT</scp>\n                    : A new science mapping analysis software tool",
+        "journal": "Journal of the American Society for Information Science and Technology",
+        "volume": "63",
+        "issue": "8",
+        "page": "1609-1630",
+        "year": 2012,
+        "authors": "Cobo, M.J.; López‐Herrera, A.G.; Herrera‐Viedma, E.; Herrera, F."
+      }
+    ],
+    "Van Eck 2010": [
+      {
+        "doi": "10.59350/egtcx-51934",
+        "title": "Mapping science using Microsoft Academic data",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2019,
+        "authors": "van Eck, Nees Jan; Waltman, Ludo"
+      },
+      {
+        "doi": "10.59350/9375b-xax40",
+        "title": "Mapping science using Microsoft Academic data",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "page": "",
+        "year": 2019,
+        "authors": "van Eck, Nees Jan; Waltman, Ludo"
+      },
+      {
+        "doi": "10.1007/s11192-009-0146-3",
+        "title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+        "journal": "Scientometrics",
+        "volume": "84",
+        "issue": "2",
+        "page": "523-538",
+        "year": 2009,
+        "authors": "van Eck, Nees Jan; Waltman, Ludo"
+      }
+    ],
+    "Donthu 2021": [
+      {
+        "doi": "10.1016/j.jbusres.2021.04.070",
+        "title": "How to conduct a bibliometric analysis: An overview and guidelines",
+        "journal": "Journal of Business Research",
+        "volume": "133",
+        "issue": "",
+        "page": "285-296",
+        "year": 2021,
+        "authors": "Donthu, Naveen; Kumar, Satish; Mukherjee, Debmalya; Pandey, Nitesh; Lim, Weng Marc"
+      },
+      {
+        "doi": "10.1016/j.jbusres.2022.04.042",
+        "title": "Guidelines for advancing theory and practice through bibliometric research",
+        "journal": "Journal of Business Research",
+        "volume": "148",
+        "issue": "",
+        "page": "101-115",
+        "year": 2022,
+        "authors": "Mukherjee, Debmalya; Lim, Weng Marc; Kumar, Satish; Donthu, Naveen"
+      },
+      {
+        "doi": "10.1016/j.jbusres.2024.114760",
+        "title": "How to combine and clean bibliometric data and use bibliometric tools synergistically: Guidelines using metaverse research",
+        "journal": "Journal of Business Research",
+        "volume": "182",
+        "issue": "",
+        "page": "114760",
+        "year": 2024,
+        "authors": "Lim, Weng Marc; Kumar, Satish; Donthu, Naveen"
+      }
+    ]
+  }
+}

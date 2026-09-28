@@ -1,0 +1,134 @@
+{
+  "flow": {
+    "identified_scopus": 2815,
+    "stages": [
+      [
+        "Duplicates removed by DOI",
+        281,
+        "2534 remaining"
+      ],
+      [
+        "Duplicates removed by EID",
+        0,
+        "2534 remaining"
+      ],
+      [
+        "Duplicates removed by normalised title",
+        10,
+        "2524 remaining"
+      ],
+      [
+        "Records excluded: non-scholarly document types (errata, editorials, letters, notes, retracted)",
+        28,
+        ""
+      ],
+      [
+        "Records excluded: non-English language of original document",
+        156,
+        ""
+      ],
+      [
+        "Records excluded: document type outside Article / Review / Conference paper / Book chapter",
+        36,
+        ""
+      ],
+      [
+        "Records excluded: abstract shorter than 200 characters",
+        5,
+        ""
+      ],
+      [
+        "Records excluded: publication year outside 2000-2026",
+        18,
+        ""
+      ],
+      [
+        "Records excluded: off-topic contamination (materials-science diffusion/conduction leakage)",
+        8,
+        ""
+      ],
+      [
+        "Records excluded: fewer than 40 analysable tokens after preprocessing",
+        8,
+        ""
+      ]
+    ],
+    "after_screening": 2281,
+    "after_contamination": 2273,
+    "after_token_filter": 2265,
+    "n_physical_contamination": 2,
+    "n_early_le2019": 701,
+    "n_late_gt2019": 1564
+  },
+  "profile": {
+    "document_type": {
+      "Article": 1680,
+      "Book chapter": 281,
+      "Conference paper": 222,
+      "Review": 82
+    },
+    "year": {
+      "2000": 6,
+      "2001": 3,
+      "2002": 5,
+      "2003": 12,
+      "2004": 9,
+      "2005": 10,
+      "2006": 15,
+      "2007": 11,
+      "2008": 25,
+      "2009": 17,
+      "2010": 51,
+      "2011": 42,
+      "2012": 44,
+      "2013": 26,
+      "2014": 61,
+      "2015": 56,
+      "2016": 62,
+      "2017": 84,
+      "2018": 72,
+      "2019": 90,
+      "2020": 136,
+      "2021": 174,
+      "2022": 177,
+      "2023": 189,
+      "2024": 286,
+      "2025": 344,
+      "2026": 258
+    },
+    "top_sources": {
+      "Sustainability (Switzerland)": 177,
+      "Journal of Sustainable Tourism": 74,
+      "Tourism Management": 52,
+      "Current Issues in Tourism": 50,
+      "Tourism Geographies": 36,
+      "Geojournal of Tourism and Geosites ": 34,
+      "Geojournal of Tourism and Geosites": 31,
+      "International Journal of Tourism Research": 28,
+      "Asia Pacific Journal of Tourism Research": 26,
+      "Annals of Tourism Research": 24,
+      "International Journal of Sustainable Development and Planning": 24,
+      "Springer Proceedings in Business and Economics": 24,
+      "Worldwide Hospitality and Tourism Themes": 23,
+      "IOP Conference Series: Earth and Environmental Science": 23,
+      "Tourism Planning and Development": 21,
+      "E3S Web of Conferences": 21,
+      "Journal of Travel Research": 20,
+      "Land": 19,
+      "Scandinavian Journal of Hospitality and Tourism": 17,
+      "African Journal of Hospitality, Tourism and Leisure": 16
+    },
+    "n_sources": 846,
+    "open_access": {
+      "All Open Access; Gold Open Access; Green Open Access": 408,
+      "All Open Access; Gold Open Access": 307,
+      "All Open Access; Green Open Access": 117,
+      "All Open Access; Hybrid Gold Open Access": 102,
+      "All Open Access; Green Open Access; Hybrid Gold Open Access": 61,
+      "All Open Access; Bronze Open Access": 59,
+      "All Open Access; Bronze Open Access; Green Open Access": 13,
+      "All Open Access": 1
+    },
+    "mean_citations": 24.85783664459161
+  }
+}
